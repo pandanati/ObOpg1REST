@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObOpg1REST", "ObOpg1REST\ObOpg1REST.csproj", "{06BB3233-7502-4665-A913-6638D38C27EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCarManagerREST", "TestingCarManagerREST\TestingCarManagerREST.csproj", "{6D6FE338-95D6-438D-812B-9F1B0244C29A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{06BB3233-7502-4665-A913-6638D38C27EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06BB3233-7502-4665-A913-6638D38C27EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06BB3233-7502-4665-A913-6638D38C27EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6FE338-95D6-438D-812B-9F1B0244C29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6FE338-95D6-438D-812B-9F1B0244C29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6FE338-95D6-438D-812B-9F1B0244C29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6FE338-95D6-438D-812B-9F1B0244C29A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
